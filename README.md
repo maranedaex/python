@@ -1,7 +1,7 @@
 # python
 python Jupyter notebook
 
-## Convoluciones 2D en Python (OpenCV 2, numpy)
+### Convoluciones 2D en Python (OpenCV 2, numpy)
 
 Para demostrar el filtrado 2D basado en el núcleo.
 
